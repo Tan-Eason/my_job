@@ -1,0 +1,4 @@
+.venv/
+*.csv
+*.docx
+.ipynb_checkpoints/
